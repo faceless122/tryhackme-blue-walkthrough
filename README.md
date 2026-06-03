@@ -150,8 +150,8 @@ This project was completed within a legal lab environment provided by TryHackMe 
 
 Frank Kofi Awen
 
-* GitHub: your-github-username
-* LinkedIn: your-linkedin-profile
+* GitHub: https://github.com/faceless122/tryhackme-blue-walkthrough.git
+* LinkedIn: www.linkedin.com/in/awenfrank
 
 ## References
 
